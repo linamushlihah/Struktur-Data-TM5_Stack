@@ -1,3 +1,7 @@
+---------------------
+|Nama| Lina Mushlihah|
+|NRP| 5025251063|
+-----------------
 # Implementasi Stack (C++)
 
 ## Deskripsi
